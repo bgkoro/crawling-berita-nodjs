@@ -4,10 +4,6 @@
 
 API Berita Indonesia adalah API yang menampilkan berita Indonesia dari CNN, CNBC, Tribun, OkeZone dll. Untuk datanya sendiri berasal dari RSS masing-masing situs kemudian diubah ke tipe JSON Rest API.
 
-## Demo
-
-[https://api-berita-indonesia.vercel.app/](https://api-berita-indonesia.vercel.app/)
-
 ## Daftar Route
 
 - `/antara/:kategori`
